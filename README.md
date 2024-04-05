@@ -1,4 +1,4 @@
-# Hi 😊![GoodbyeThankYouGIF](https://github.com/Zane-Liao/Zane-Liao/assets/107838814/5f192dbb-7254-4f6d-b810-61cf23d2c93e)
+# Hi 😊![LololFunnyGIF](https://github.com/Zane-Liao/Zane-Liao/assets/107838814/4dcc5c6d-6ea3-4d84-bed8-2e7a86b53fd0)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zane-liao)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lzq666amn@gmail.com)
