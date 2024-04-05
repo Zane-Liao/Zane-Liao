@@ -1,4 +1,4 @@
-# Hi 😊![LololFunnyGIF](https://github.com/Zane-Liao/Zane-Liao/assets/107838814/4dcc5c6d-6ea3-4d84-bed8-2e7a86b53fd0)
+# Hi 😊
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zane-liao)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lzq666amn@gmail.com)
@@ -19,3 +19,4 @@ Let's Connect!
 I'm always up for making new friends and engaging in interesting conversations. Feel free to reach out – I'd love to hear from you!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![LololFunnyGIF](https://github.com/Zane-Liao/Zane-Liao/assets/107838814/4dcc5c6d-6ea3-4d84-bed8-2e7a86b53fd0)
