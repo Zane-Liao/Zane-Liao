@@ -1,4 +1,5 @@
-# Hi ![MuaKissGIF](https://github.com/Zane-Liao/qiangge589/assets/107838814/6df9ceeb-391a-444d-8dae-5d77026bf0ea)
+# Hi ![Uploading GoodbyeThankYouGIF.gif…]()
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zane-liao)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lzq666amn@gmail.com)
 
