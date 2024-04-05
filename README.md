@@ -1,6 +1,6 @@
 # Hi ![MuaKissGIF](https://github.com/Zane-Liao/qiangge589/assets/107838814/6df9ceeb-391a-444d-8dae-5d77026bf0ea)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/zane-liao)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](lzq666amn@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zane-liao)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lzq666amn@gmail.com)
 
 About Me
 👋 Hey there! I'm a young guy from Asia with a passion for exploration and creativity. Here's a bit about what makes me tick:
