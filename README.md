@@ -20,4 +20,3 @@ I'm always up for making new friends and engaging in interesting conversations. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zane-Liao&show_icons=true&theme=transparent)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zane-liao)](https://github.com/anuraghazra/github-readme-stats)
