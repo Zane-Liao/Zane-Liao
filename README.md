@@ -1,5 +1,5 @@
 # Hi 😊
-## Fuck win11,BlueScreen Everything starts all over again.
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zane-liao)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liaozhengqiang8@gmail.com)
 - 📫 How to reach me: 
@@ -7,6 +7,7 @@
 
 About Me
 👋 Hey there! I'm a young guy from Asia with a passion for exploration and creativity. Here's a bit about what makes me tick:
+## BlueScreen Everything starts all over again.
 
 Interests
 - 🎸 Metal Rock Music & Guitar: I'm all about those intense guitar riffs and head-banging beats.
