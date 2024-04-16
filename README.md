@@ -7,7 +7,6 @@
 
 About Me
 👋 Hey there! I'm a young guy from Asia with a passion for exploration and creativity. Here's a bit about what makes me tick:
-## BlueScreen Everything starts all over again.
 
 Interests
 - 🎸 Metal Rock Music & Guitar: I'm all about those intense guitar riffs and head-banging beats.
@@ -22,5 +21,6 @@ Goals
 
 Let's Connect!
 I'm always up for making new friends and engaging in interesting conversations. Feel free to reach out – I'd love to hear from you!
+## BlueScreen Everything starts all over again.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=compact)
