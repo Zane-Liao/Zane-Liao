@@ -21,6 +21,5 @@ Goals
 
 Let's Connect!
 I'm always up for making new friends and engaging in interesting conversations. Feel free to reach out – I'd love to hear from you!
-## BlueScreen Everything starts all over again.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=compact)
