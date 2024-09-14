@@ -2,7 +2,15 @@
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Mr.Zane </a>
 About Me
-👋 Hey there! I'm a young guy from Asia with a passion for exploration and creativity. 
+👋 Hey there! I'm a young guy from Asia with a passion for exploration and creativity.
+
+Interests
+- 🎸 Metal Rock Music & Guitar: I'm all about those intense guitar riffs and head-banging beats.
+- 🌿 Nature: There's nothing like immersing myself in the great outdoors, whether it's hiking through forests or gazing at starry skies.
+- 💻 Computers: I'm deeply entrenched in the world of computers, always eager to learn about the latest tech and coding trends.
+- 🌌 The Universe: From the awe-inspiring vastness to the thrilling mysteries, I find the universe endlessly fascinating.
+- 👽 Extraterrestrial Life: Speculating about life beyond Earth and the possibilities of alien civilizations intrigues me.
+- 👻 Supernatural Phenomena: Exploring the realms of ghosts, spirits, and other supernatural occurrences captivates my imagination.
 
 I am currently studying artificial intelligence and data analysis, as well as some data structures and algorithms, in order to prepare for the future and the foundation. After that, I will specialize in full-stack development, combining the latest technologies.
 
