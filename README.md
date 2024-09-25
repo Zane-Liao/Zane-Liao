@@ -12,8 +12,6 @@ Interests
 - 👽 Extraterrestrial Life: Speculating about life beyond Earth and the possibilities of alien civilizations intrigues me.
 - 👻 Supernatural Phenomena: Exploring the realms of ghosts, spirits, and other supernatural occurrences captivates my imagination.
 
-I am currently studying artificial intelligence and data analysis, as well as some data structures and algorithms, in order to prepare for the future and the foundation. After that, I will specialize in full-stack development, combining the latest technologies.
-
 Goals
 - 🔭 Becoming an Independent Developer: My dream is to become a digital nomad, crafting code from anywhere in the world. The freedom to explore new places while doing what I love? Sign me up!
 
