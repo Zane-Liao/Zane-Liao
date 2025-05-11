@@ -5,6 +5,5 @@
 - Working from home
 - Learn Computer Science to gain a deep understanding of technology(I will start contributing in July, but before that I may have something important to do.)
 - Goal -> Digital nomad, entrepreneurship
-- The ultimate goal: to realize your own value
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=compact)
