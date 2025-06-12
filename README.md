@@ -7,5 +7,6 @@
 - I will include my course assignments and notes on github, as well as some of the projects I want to do (which are far from enough at the moment).
 - Working from home.
 - My goal is to be an independent developer, a digital nomad, and of course a little bit of investment.
+- If you have any good ideas or suggestions, please send me an email or send me a private message on X.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=compact)
