@@ -8,7 +8,6 @@
 - I love critical thinking and reflection, I have a strong imagination, I like novel things, and I am used to combining seemingly unrelated things.
 - I am interested in AI, but I don’t necessarily need to become something. I just want to learn and understand it.
 - I love Computer systems and some security.
-- I like to explore things and love the world.
 - Goal => Digital nomad -> Maybe I'll apply for a PhD in Computer Science -> entrepreneurship
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zane-Liao&layout=compact)
